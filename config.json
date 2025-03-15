@@ -1,0 +1,7 @@
+{
+    "shodan_api": "YOUR_SHODAN_API_KEY",
+    "hibp_api": "YOUR_HIBP_API_KEY",
+    "virustotal_api": "YOUR_VIRUSTOTAL_API_KEY",
+    "hunter_api": "YOUR_HUNTER_API_KEY"
+  }
+  
