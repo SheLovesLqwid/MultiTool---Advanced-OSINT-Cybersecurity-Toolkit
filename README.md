@@ -1,4 +1,3 @@
-
 # 🔥 **MultiTool - Advanced OSINT & Cybersecurity Toolkit**  
 
 MultiTool is an advanced **OSINT (Open Source Intelligence)** and **Cybersecurity** tool designed for penetration testers, security researchers, and ethical hackers.  
@@ -12,6 +11,14 @@ MultiTool is an advanced **OSINT (Open Source Intelligence)** and **Cybersecurit
 ✅ **Dark Web Search** (Find leaked credentials)  
 ✅ **Fast Multi-threaded Scanning**  
 ✅ **CLI-based & easy to use**  
+
+---
+
+### 👑 **Developed By:**  
+🔹 **@ttvwetboi** — Ethical hacker & OSINT specialist.  
+🔹 **@loxtvfx.** (Discord) — Learning & leveling up in cybersecurity.  
+
+💀 **Built for hackers, by hackers.** Stay anonymous. Stay ahead.  
 
 ---
 
