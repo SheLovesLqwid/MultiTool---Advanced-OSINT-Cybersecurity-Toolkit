@@ -15,7 +15,7 @@ MultiTool is an advanced **OSINT (Open Source Intelligence)** and **Cybersecurit
 ---
 
 ### 👑 **Developed By:**  
-🔹 **@ttvwetboi** — Ethical hacker & OSINT specialist.  
+🔹 **@ttvwetboi** (Discord) — Ethical hacker & OSINT specialist.  
 🔹 **@loxtvfx.** (Discord) — Learning & leveling up in cybersecurity.  
 
 💀 **Built for hackers, by hackers.** Stay anonymous. Stay ahead.  
